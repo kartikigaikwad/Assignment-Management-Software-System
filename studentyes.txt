@@ -1,0 +1,31 @@
+1,1,Not Submitted,0
+1,2,Not Submitted,90
+2,2,Not Submitted,75
+2,3,Submitted,85
+3,3,Submitted,80
+3,4,Not Submitted,0
+4,4,Submitted,100
+4,1,Submitted,-1
+5,1,Not Submitted,0
+5,5,Not Submitted,0
+1001,1,Submitted,80
+6,1,Submitted,-1
+7,2,Submitted,-1
+8,2,Submitted,-1
+9,6,Not Submitted,10
+10,6,Not Submitted,11
+17,2,Submitted,100
+11,8,Not Submitted,50
+11,8,Not Submitted,80
+12,9,Not Submitted,60
+19,9,Not Submitted,50
+13,10,InProgress,50
+14,11,NotSubmitted,20
+15,12,NotSubmitted,30
+16,12,Submitted,0
+17,13,Submitted,50
+19,13,Submitted,50
+18,1,Submitted,50
+
+
+

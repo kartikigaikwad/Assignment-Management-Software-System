@@ -1,0 +1,14 @@
+1,Arrays,Pending
+2,Functions,VivaPending
+3,Loops,declared
+4,Pointers,submitted
+5,Structures,declared
+6,Java,Pending
+7,Cpp,submitted
+8,Ioom,overdue
+9,Math,overdue
+13,Pointers,declared
+10,Python,inprogress
+11,Algorhythm,NotSubmitted
+12,Science,NotSubmitted
+
